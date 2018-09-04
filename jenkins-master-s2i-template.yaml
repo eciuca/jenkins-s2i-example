@@ -130,7 +130,6 @@ objects:
       spec:
         containers:
         - env:
-          - env:
           - name: OPENSHIFT_ENABLE_OAUTH
             value: "true"
           - name: OPENSHIFT_ENABLE_REDIRECT_PROMPT
