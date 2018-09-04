@@ -172,5 +172,5 @@ objects:
         - jenkins
         from:
           kind: ImageStreamTag
-          name: jenkins:latest
+          name: jenkins:2
       type: ImageChange
